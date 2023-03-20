@@ -10,7 +10,7 @@ Experience
 #### Traffic Platform PE : remote / Greater Seattle Area
 
   * Building tools to aid in root cause analysis for failures in Meta's in house content delivery network.
-  * Improving a correlation engine (system that synthesizes signals from many disparate sources beyond what simple charts allow for) critical to the maintenance of Meta's network infrastructure.
+  * Improving a correlation engine critical to the maintenance of Meta's network infrastructure.
 
 ### 2021-2022 [Twitter](https://twitter.com)
 #### Core Infrastructure Services SRE : remote
@@ -85,7 +85,6 @@ Education
 
 
 ### Other Information
-  * Held a security clearance issued by the United States Department of Defense.
   * Programming Languages: Python, Go, JavaScript, C, C++, Bash, AWK, Rust, Java, Ruby, Scala
 
 ----
