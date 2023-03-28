@@ -5,12 +5,13 @@ Experience
 ### 2022-Present [Meta](https://meta.com)
 #### First Party Game Studios PE : remote (team was disbanded due to reorganization)
 
-  * Shipped a critical multiplayer server allocation and matchmaking service that was falling behind schedule (prior to my joining) by redesigning its approach to request handling, improving performance dramatically.
+  * Took over as lead developer and shipped a critical multiplayer server allocation and matchmaking service that was falling behind schedule (prior to my joining) by redesigning its approach to request handling, improving performance dramatically.
 
 #### Traffic Platform PE : remote / Greater Seattle Area
 
   * Building tools to aid in root cause analysis for failures in Meta's in house content delivery network.
   * Improving a correlation engine critical to the maintenance of Meta's network infrastructure.
+  * Eliminated N+1 queries in a critical system that were hindering production performance and causing data loss with a redesign - the data loss and performance issues were completely resolved.
 
 ### 2021-2022 [Twitter](https://twitter.com)
 #### Core Infrastructure Services SRE : remote
