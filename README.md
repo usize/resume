@@ -20,15 +20,17 @@ Experience
   * Wrote code generation tools to increase developer productivity.
   * Developed services to increase observability into the status of puppet releases.
   * Built cross-team relationships that unblocked important projects which had been stalled due to misunderstandings.
-  * Hold regular meetings with teammates to help them do their best work.
-  * Lead yearly and quarterly team OKR planning.
-  * Communicate the successes and ongoing progress of the team to the larger SRE and software engineering organizations.
+  * Held regular meetings with teammates to help them do their best work. (Mentoring)
+  * Led yearly and quarterly team OKR/project planning and roadmapping.
+  * Communicated the successes and ongoing progress of the team to the larger SRE and software engineering organizations.
+  * Identified cross organizational opportunities and eliminated redundant work.
 
 ### 2020-2021 [Box](https://box.com)
 #### Observability SRE : remote
 
   * Led development of an in house distributed log tailer and metric exporter.
   * Decreased memory usage by ~100x and CPU by ~10x in system daemons, with huge cumulative savings.
+  * Mentored teammates and helped them identify opportunities for taking on impactful projects.
   * Helped build out an interview process for a newly minted SRE-SWE role pipeline.
   * Wrote mapping tools that revealed hidden dependencies between parts of our infrastructure.
   * Designed monitoring systems that helped us understand the performance of our logging platform.
@@ -38,9 +40,9 @@ Experience
 #### Payments SRE : Pittsburgh, Pennsylvania
 
   * Oncall for Google's entire payment processing infrastructure.
-  * Write tooling to increase developer productivity (with a focus on static analysis and debugging tools).
-  * Review design proposals, across teams and organizations, for new software.
-  * Regularly implement monitoring and SLO adjustments to decrease toil.
+  * Wrote developer productivity tooling (with a focus on static analysis and debugging tools).
+  * Reviewed design proposals, across teams and organizations, for new software.
+  * Performed monitoring and SLO adjustments to decrease toil.
 
 #### Google Global Cache Operations : Greater Denver Area, Colorado
 
@@ -61,13 +63,13 @@ Experience
   * Contributed to Cretonne, a code generator for WebAssembly.
 
 #### Release Engineering / TaskCluster
-  * Part of the team building [TaskCluster](https://github.com/taskcluster), a task queuing system that powers Mozilla's next generation build pipeline.
+  * Part of the team that built [TaskCluster](https://github.com/taskcluster), a task queuing system that powered Mozilla's build pipeline.
   * Designed and built a [continuous integration system on top of TaskCluster](https://github.com/taskcluster/taskcluster-github), tailored to the needs of Mozilla's GitHub hosted repositories.
   * Created a [secret management service](https://github.com/taskcluster/taskcluster-secrets), along with a novel (http proxy based) method for injecting secrets into running CI jobs.
-  * Contributor to [RelengAPI](https://wiki.mozilla.org/ReleaseEngineering/Applications/RelengAPI), a platform for building infrastructure services with RESTful APIs and nice self-serve interfaces.
-  * Perform ad-hoc investigations and bug fixes (on call).
+  * Contributed to [RelengAPI](https://wiki.mozilla.org/ReleaseEngineering/Applications/RelengAPI), a platform for building infrastructure services with RESTful APIs and nice self-serve interfaces.
+  * Performed ad-hoc investigations and bug fixes (on call).
   * Improved our monitoring and alerting by outfitting existing systems with InfluxDB, Grafana, and PaperTrail.
-  * Primary maintainer of "Runner," a specialized init system which forms the foundation of Mozilla's current build infrastructure. Runner has been measured to [save over 72,000 minutes](https://archive.fo/fKuHW) of compute time per day by reducing the setup/teardown time between builds.
+  * Primary maintainer of "Runner," a specialized init system which forms the foundation of Mozilla's current build infrastructure. Runner [saved over 72,000 minutes](https://archive.fo/fKuHW) of compute time per day by reducing the setup/teardown time between builds.
   * Primary maintainer of "Clobberer," a service which allows developers to easily flush object caches across large numbers of hosts.
   * Exposed Mozilla's internal build environments to developers via Docker containers.
   * Containerized Linux Firefox Builds.
