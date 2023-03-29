@@ -63,7 +63,7 @@ Experience
   * Rewrote parsing logic for the ``Date`` object ``new Date("5-26-1988");``
   * Added `[Learn More]` links to JavaScript error messages in the Firefox web console.
   * Added smart multi-line editing to the Firefox web console.
-  * Contributed to Cretonne, a code generator for WebAssembly.
+  * Contributed to WasmTime, a code generator for WebAssembly.
 
 #### Release Engineering / TaskCluster
   * Part of the team that built [TaskCluster](https://github.com/taskcluster), a task queuing system that powered Mozilla's build pipeline.
