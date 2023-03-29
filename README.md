@@ -68,7 +68,7 @@ Experience
 #### Release Engineering / TaskCluster
   * Part of the team that built [TaskCluster](https://github.com/taskcluster), a task queuing system that powered Mozilla's build pipeline.
   * Designed and built a [continuous integration system on top of TaskCluster](https://github.com/taskcluster/taskcluster-github), tailored to the needs of Mozilla's GitHub hosted repositories.
-  * Created a [secret management service](https://github.com/taskcluster/taskcluster-secrets), along with a novel (http proxy based) method for injecting secrets into running CI jobs.
+  * Created a [secret management service](https://github.com/taskcluster/taskcluster-secrets/commits?author=usize), along with a novel (http proxy based) method for injecting secrets into running CI jobs.
   * Contributed to [RelengAPI](https://wiki.mozilla.org/ReleaseEngineering/Applications/RelengAPI), a platform for building infrastructure services with RESTful APIs and nice self-serve interfaces.
   * Primary maintainer of "Runner," a specialized init system which forms the foundation of Mozilla's current build infrastructure. Runner [saved over 72,000 minutes](https://archive.fo/fKuHW) of compute time per day by reducing the setup/teardown time between builds.
   * Primary maintainer of "Clobberer," a service which allows developers to easily flush object caches across large numbers of hosts.
