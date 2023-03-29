@@ -55,9 +55,8 @@ Experience
 ### 2014-2016 [Mozilla](https://mozilla.org) : Remote
 
 #### JavaScript Engine
-  You can see many of my commits here: https://github.com/mozilla/gecko-dev/commits?author=usize
-  For WebAssembly work see: https://github.com/bytecodealliance/wasmtime/commits?author=usize
-
+  * You can see many of my commits here: https://github.com/mozilla/gecko-dev/commits?author=usize
+  * For WebAssembly work see: https://github.com/bytecodealliance/wasmtime/commits?author=usize
   * Implemented sorting for typed arrays ``(new Int32Array([4, 3, .., n])).sort();``
   * Implemented sorting for arrays with custom comparators ``[4, 3, .., n].sort((x, y) => x - y);``
   * Implemented object destructuring [with default values] ``{x=1} = {}; x === 1;``
