@@ -70,11 +70,8 @@ Experience
   * Designed and built a [continuous integration system on top of TaskCluster](https://github.com/taskcluster/taskcluster-github), tailored to the needs of Mozilla's GitHub hosted repositories.
   * Created a [secret management service](https://github.com/taskcluster/taskcluster-secrets), along with a novel (http proxy based) method for injecting secrets into running CI jobs.
   * Contributed to [RelengAPI](https://wiki.mozilla.org/ReleaseEngineering/Applications/RelengAPI), a platform for building infrastructure services with RESTful APIs and nice self-serve interfaces.
-  * Performed ad-hoc investigations and bug fixes (on call).
-  * Improved our monitoring and alerting by outfitting existing systems with InfluxDB, Grafana, and PaperTrail.
   * Primary maintainer of "Runner," a specialized init system which forms the foundation of Mozilla's current build infrastructure. Runner [saved over 72,000 minutes](https://archive.fo/fKuHW) of compute time per day by reducing the setup/teardown time between builds.
   * Primary maintainer of "Clobberer," a service which allows developers to easily flush object caches across large numbers of hosts.
-  * Exposed Mozilla's internal build environments to developers via Docker containers.
   * Containerized Linux Firefox Builds.
 
 Education
