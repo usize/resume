@@ -54,7 +54,7 @@ Because Twitter is a very different organization today than it was when I joined
   * Wrote developer tooling for internal platforms and domain specific languages.
   * Troubleshot software and hardware problems with non-Google employees located in datacenters around the globe on a regular basis.
 
-### 2014-2016 [Mozilla](https://mozilla.org) : Remote
+### 2014-2016 [Mozilla](https://mozilla.org) : remote
 
 #### JavaScript Engine
   * You can see many of my commits at => https://github.com/mozilla/gecko-dev/commits?author=usize
