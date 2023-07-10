@@ -12,6 +12,7 @@ Experience
   * Building tools to aid in root cause analysis for failures in Meta's in house content delivery network.
   * Improving a correlation engine critical to the maintenance of Meta's network infrastructure.
   * Eliminated N+1 queries in a critical system that were hindering production performance and causing data loss with a refactor - the data loss and performance issues were completely resolved.
+  * Led efforts to automate mission critical processes, related to rolling out changes to Meta's content delivery network.
  
 ### 2021-2022 [Twitter](https://twitter.com)
 #### Core Infrastructure Services SRE : remote
