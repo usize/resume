@@ -3,9 +3,10 @@ Experience
 ======
 
 ### 2022-2023 [Meta](https://meta.com)
-#### First Party Game Studios PE : remote (team was disbanded due to reorganization)
+#### First Party Game Studios PE : remote
 
   * Took over as lead developer and shipped a critical multiplayer server allocation and matchmaking service that was falling behind schedule (prior to my joining) by redesigning its approach to request handling, improving performance dramatically.
+  * Project planning and onboarding for newly acquired game studios.
 
 #### Traffic Platform PE : remote / Greater Seattle Area
 
@@ -16,8 +17,6 @@ Experience
  
 ### 2021-2022 [Twitter](https://twitter.com)
 #### Core Infrastructure Services SRE : remote
-
-Because Twitter is a very different organization today than it was when I joined, companies interested in hiring me who would like to know more about my work there could use [my manager](https://www.linkedin.com/in/patrick-newman-silicon-valley/) as a reference. Better yet you could try to hire him because he is amazing.
 
   * Team lead overseeing configuration management across Twitter data centers and cloud providers.
   * Wrote static analysis tools to detect problematic Puppet code and automatically fix it.
