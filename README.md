@@ -2,7 +2,7 @@
 Experience
 ======
 
-### 2022-Present [Meta](https://meta.com)
+### 2022-2023 [Meta](https://meta.com)
 #### First Party Game Studios PE : remote (team was disbanded due to reorganization)
 
   * Took over as lead developer and shipped a critical multiplayer server allocation and matchmaking service that was falling behind schedule (prior to my joining) by redesigning its approach to request handling, improving performance dramatically.
